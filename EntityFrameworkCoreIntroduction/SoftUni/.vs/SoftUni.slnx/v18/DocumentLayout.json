@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Desktop\\EntityFrameworkCoreCSharp\\EntityFrameworkCoreIntroduction\\SoftUni\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB75F37-B4F9-5D0F-F099-17782C05CA4C}|SoftUni\\SoftUni.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\desktop\\entityframeworkcorecsharp\\entityframeworkcoreintroduction\\softuni\\softuni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB75F37-B4F9-5D0F-F099-17782C05CA4C}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Desktop\\EntityFrameworkCoreCSharp\\EntityFrameworkCoreIntroduction\\SoftUni\\SoftUni\\Data\\Models\\SoftUniContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SoftUni\\Data\\Models\\SoftUniContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB75F37-B4F9-5D0F-F099-17782C05CA4C}|SoftUni\\SoftUni.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\desktop\\entityframeworkcorecsharp\\entityframeworkcoreintroduction\\softuni\\softuni\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB75F37-B4F9-5D0F-F099-17782C05CA4C}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB75F37-B4F9-5D0F-F099-17782C05CA4C}|SoftUni\\SoftUni.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\desktop\\entityframeworkcorecsharp\\entityframeworkcoreintroduction\\softuni\\softuni\\data\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB75F37-B4F9-5D0F-F099-17782C05CA4C}|SoftUni\\SoftUni.csproj|solutionrelative:softuni\\data\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Desktop\\EntityFrameworkCoreCSharp\\EntityFrameworkCoreIntroduction\\SoftUni\\SoftUni\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Desktop\\EntityFrameworkCoreCSharp\\EntityFrameworkCoreIntroduction\\SoftUni\\SoftUni\\Models\\Project.cs",
+              "RelativeToolTip": "SoftUni\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T07:37:47.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SoftUniContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Desktop\\EntityFrameworkCoreCSharp\\EntityFrameworkCoreIntroduction\\SoftUni\\SoftUni\\Data\\SoftUniContext.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Data\\SoftUniContext.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Desktop\\EntityFrameworkCoreCSharp\\EntityFrameworkCoreIntroduction\\SoftUni\\SoftUni\\Data\\SoftUniContext.cs",
+              "RelativeToolTip": "SoftUni\\Data\\SoftUniContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T12:32:15.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoftUniContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Desktop\\EntityFrameworkCoreCSharp\\EntityFrameworkCoreIntroduction\\SoftUni\\SoftUni\\Data\\Models\\SoftUniContext.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Data\\Models\\SoftUniContext.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Desktop\\EntityFrameworkCoreCSharp\\EntityFrameworkCoreIntroduction\\SoftUni\\SoftUni\\Data\\Models\\SoftUniContext.cs",
+              "RelativeToolTip": "SoftUni\\Data\\Models\\SoftUniContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T06:29:09.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Desktop\\EntityFrameworkCoreCSharp\\EntityFrameworkCoreIntroduction\\SoftUni\\SoftUni\\Program.cs",
+              "RelativeDocumentMoniker": "SoftUni\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Desktop\\EntityFrameworkCoreCSharp\\EntityFrameworkCoreIntroduction\\SoftUni\\SoftUni\\Program.cs",
+              "RelativeToolTip": "SoftUni\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T06:26:48.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
