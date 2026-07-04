@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{05ABA8C7-E9FF-4DD2-9FA7-C17A37174890}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A02AC7E2-76E4-4DDD-B151-98DB73F8DBAB}|BookShop.Initializer\\BookShop.Initializer.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\desktop\\entityframeworkcorecsharp\\advancedquerying\\bookshop.initializer\\generators\\bookgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A02AC7E2-76E4-4DDD-B151-98DB73F8DBAB}|BookShop.Initializer\\BookShop.Initializer.csproj|solutionrelative:bookshop.initializer\\generators\\bookgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9FF00240-FCE5-4DD9-ABF2-A6CD8D667353}|BookShop.Data\\BookShop.Data.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\desktop\\entityframeworkcorecsharp\\advancedquerying\\bookshop.data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FF00240-FCE5-4DD9-ABF2-A6CD8D667353}|BookShop.Data\\BookShop.Data.csproj|solutionrelative:bookshop.data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02AC7E2-76E4-4DDD-B151-98DB73F8DBAB}|BookShop.Initializer\\BookShop.Initializer.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\desktop\\entityframeworkcorecsharp\\advancedquerying\\bookshop.initializer\\generators\\bookgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02AC7E2-76E4-4DDD-B151-98DB73F8DBAB}|BookShop.Initializer\\BookShop.Initializer.csproj|solutionrelative:bookshop.initializer\\generators\\bookgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,16 +34,16 @@
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Desktop\\EntityFrameworkCoreCSharp\\AdvancedQuerying\\BookShop\\StartUp.cs",
               "RelativeDocumentMoniker": "BookShop\\StartUp.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Desktop\\EntityFrameworkCoreCSharp\\AdvancedQuerying\\BookShop\\StartUp.cs",
-              "RelativeToolTip": "BookShop\\StartUp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAACfAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Desktop\\EntityFrameworkCoreCSharp\\AdvancedQuerying\\BookShop\\StartUp.cs*",
+              "RelativeToolTip": "BookShop\\StartUp.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-03T06:03:06.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BookGenerator.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Desktop\\EntityFrameworkCoreCSharp\\AdvancedQuerying\\BookShop.Initializer\\Generators\\BookGenerator.cs",
               "RelativeDocumentMoniker": "BookShop.Initializer\\Generators\\BookGenerator.cs",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u044A\u0440\\Desktop\\EntityFrameworkCoreCSharp\\AdvancedQuerying\\BookShop.Data\\Configuration.cs",
               "RelativeDocumentMoniker": "BookShop.Data\\Configuration.cs",
